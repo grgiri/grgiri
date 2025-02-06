@@ -1,6 +1,6 @@
 # Hello, I'm G R Giri Sesha Sai! 👋
 
-I'm a passionate data enthusiast with a strong foundation in SQL, MySQL, Python, Machine Learning, PowerBI, Data Visualization, Statistics, and Data Analytics. With a keen interest in unraveling insights from data and leveraging them to solve real-world problems, I continuously seek to grow, learn, and contribute to the field of data science.
+I'm a passionate data enthusiast with a strong foundation in SQL, MySQL, Python, MS Excel, VBA-Macros , PowerBI, Data Visualization, Statistics, Machine Learning and Data Analytics. With a keen interest in unraveling insights from data and leveraging them to solve real-world problems, I continuously seek to grow, learn, and contribute to the field of data science.
 
 ## 📚 Education
 
